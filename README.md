@@ -1,5 +1,5 @@
 ## 애플리케이션 시작
-`$ docker run -p 8080:80 image`
+##`$ docker run -p 8080:80 image`
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
